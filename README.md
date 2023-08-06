@@ -1,0 +1,1 @@
+The purpose of the project is to demonstrate Git and GitHub. It is meant to accompany a series of video tutorials and CheatSheets on those topics.
