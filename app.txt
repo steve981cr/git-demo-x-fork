@@ -4,3 +4,4 @@ Third line modified in main branch and modified in feature3 branch.
 Feature 1.
 Feature 2.
 Feature 3.
+Feature 4.
